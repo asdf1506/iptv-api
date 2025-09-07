@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-07 01:23:53,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-09-07 19:16:15,https://migu.188766.xyz/?migutoken=6598d13b64b01bf74fc04c13b92b9cb6&id=CCTV1&pp=1$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-1,https://migu.188766.xyz/?migutoken=6598d13b64b01bf74fc04c13b92b9cb6&id=CCTV1&pp=1$订阅源
 CCTV-1,https://migu.188766.xyz/?migutoken=6598d13b64b01bf74fc04c13b92b9cb6&id=CCTV1&pp=1$订阅源
 CCTV-1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1$订阅源
@@ -14,8 +12,6 @@ CCTV-2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2$订阅源
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源
 CCTV-3,https://migu.188766.xyz/?migutoken=8d7819d7cf8a8042766c02aac3080b90&id=CCTV3&pp=1$订阅源
 CCTV-3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3$订阅源
-CCTV-3,http://13937899.xyz:35455/gaoma/cctv3.m3u8$订阅源
-CCTV-3,http://13937899.xyz:35455/gaoma/cctv3.m3u8$订阅源
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
 CCTV-4,https://migu.188766.xyz/?migutoken=05ee6a53a10feba744844076dfe14217&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy$订阅源
 CCTV-4,https://mgtv.ottiptv.cc/migu/631780421.m3u8?migutoken=2a721ee673857ec51ec38e4058ffbaece8b0969aac5e70428be6576885514423f35c3ecd16a8d4f669932daf37247aac4e09676b42181734a14abc361919d2f2d632be9976004e9f164354cb06$订阅源
@@ -24,6 +20,8 @@ CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4$订阅源
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源
 CCTV-5,https://migu.188766.xyz/?migutoken=5bee22cdc4417142983b6456e3d3948b&id=CCTV5&pp=1$订阅源
 CCTV-5,https://mgtv.ottiptv.cc/migu/641886683.m3u8?migutoken=19d235eb66fe6837d50534cfea4d8da61f9b102998d97705b2a171a37dae158393b209e109ad778d3d0530219229fb14a96fb654c4621660f520a95c66d913c7c24f647ba5b34f66b45e74dbb0$订阅源
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5$订阅源
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源
 CCTV-5+,https://migu.188766.xyz/?migutoken=28a852d7ffcb5f5b43b1d944afd198eb&id=CCTV5p&pp=1$订阅源
@@ -64,35 +62,35 @@ CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
 CCTV-15,https://migu.188766.xyz/?migutoken=462f398c31753fa3d7231a45c8092db5&id=CCTV15&pp=1$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100$订阅源
-CCTV-16,https://mursor.ottiptv.cc/mst/cctv16.m3u8$订阅源
-CCTV-16,https://mursor.ottiptv.cc/mst/cctv16.m3u8$订阅源
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1$订阅源
+CCTV-16,https://mursor.ottiptv.cc/mst/cctv16.m3u8$订阅源
+CCTV-16,https://mursor.ottiptv.cc/mst/cctv16.m3u8$订阅源
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
 CCTV-17,https://migu.188766.xyz/?migutoken=ca7c805bd0483cd846605456f8499a63&id=CCTV17&pp=1$订阅源
 CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b00bc77e20b635782f8f1b649484af222d8b84873e49ef422088e12f72be410b13fcc2bc2b13116a000270e46fef922109f32f7c7e667093cd1f09a3c6d24484f34ab9287$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源
-广东卫视,https://mursor.ottiptv.cc/mcp/guangdong.m3u8$订阅源
 广东卫视,https://migu.188766.xyz/?migutoken=2f70575b3a7942c6aabfaa9bef1e23f5&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1$订阅源
+广东卫视,https://mursor.ottiptv.cc/mcp/guangdong.m3u8$订阅源
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$订阅源
 浙江卫视,https://mursor.ottiptv.cc/mcp/zhejiang.m3u8$订阅源
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058$订阅源
-湖南卫视,https://mursor.ottiptv.cc/mcp/hunan.m3u8$订阅源
 湖南卫视,https://migu.188766.xyz/?migutoken=ec26188e91410ebeb44f54597d4eb02f&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1$订阅源
+湖南卫视,https://mursor.ottiptv.cc/mcp/hunan.m3u8$订阅源
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143$订阅源
-北京卫视,https://mursor.ottiptv.cc/mcp/beijing.m3u8$订阅源
 北京卫视,https://migu.188766.xyz/?migutoken=628990bce5149acd814adca37f7b1692&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy$订阅源
+北京卫视,https://mursor.ottiptv.cc/mcp/beijing.m3u8$订阅源
 北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057$订阅源
-湖北卫视,https://mursor.ottiptv.cc/mcp/hubei.m3u8$订阅源
 湖北卫视,https://migu.188766.xyz/?migutoken=9157c8aa7a594b5e3a23675f8f75f55b&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1$订阅源
+湖北卫视,https://mursor.ottiptv.cc/mcp/hubei.m3u8$订阅源
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056$订阅源
 黑龙江卫视,https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8$订阅源
@@ -102,8 +100,8 @@ CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053$订阅源
 重庆卫视,https://mursor.ottiptv.cc/mcp/chongqing.m3u8$订阅源
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054$订阅源
-东方卫视,https://mursor.ottiptv.cc/mcp/dongfang.m3u8$订阅源
 东方卫视,https://migu.188766.xyz/?migutoken=8c0203b303df4aaaa36b5500c49086db&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1$订阅源
+东方卫视,https://mursor.ottiptv.cc/mcp/dongfang.m3u8$订阅源
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096$订阅源
 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=014b95a53095818f8ad2a30cc3d3f67aa4b109c10b94458b5cad53ac8361f27208aa7a7a66bebce7220d50e66d3f80b5e74206d6ac47309504139232b4b79c22918f04eba66a5404c48ca4767d$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
@@ -126,16 +124,16 @@ CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$订阅源
-河南卫视,https://mursor.ottiptv.cc/mcp/henan.m3u8$订阅源
 河南卫视,https://migu.188766.xyz/?migutoken=3f7b9888d4dbcd524f79473e01d32bd8&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy$订阅源
+河南卫视,https://mursor.ottiptv.cc/mcp/henan.m3u8$订阅源
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075$订阅源
 吉林卫视,https://mursor.ottiptv.cc/mcp/jiling.m3u8$订阅源
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059$订阅源
-江苏卫视,https://mursor.ottiptv.cc/mcp/jiangsu.m3u8$订阅源
 江苏卫视,https://migu.188766.xyz/?migutoken=e524395acc9897014a185a04c240a19f&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy$订阅源
+江苏卫视,https://mursor.ottiptv.cc/mcp/jiangsu.m3u8$订阅源
 江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060$订阅源
-江西卫视,https://mursor.ottiptv.cc/mcp/jiangxi.m3u8$订阅源
 江西卫视,https://migu.188766.xyz/?migutoken=ec5db662362dfc44c29d19ebabd3b6f7&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1$订阅源
+江西卫视,https://mursor.ottiptv.cc/mcp/jiangxi.m3u8$订阅源
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546$订阅源
 辽宁卫视,https://mursor.ottiptv.cc/mcp/liaoning.m3u8$订阅源
 内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634$订阅源
@@ -151,8 +149,8 @@ CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$订阅源
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$订阅源
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113$订阅源
-陕西卫视,https://mursor.ottiptv.cc/mcp/shanxiws.m3u8$订阅源
 陕西卫视,https://migu.188766.xyz/?migutoken=6c1651f4bfb19ef3318df9940f5030f0&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1$订阅源
+陕西卫视,https://mursor.ottiptv.cc/mcp/shanxiws.m3u8$订阅源
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338$订阅源
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068$订阅源
 深圳卫视,https://mursor.ottiptv.cc/mcp/shenzheng.m3u8$订阅源
@@ -160,8 +158,8 @@ CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 天津卫视,https://mursor.ottiptv.cc/mcp/tianjing.m3u8$订阅源
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$订阅源
-西藏卫视,https://mursor.ottiptv.cc/mcp/xizang.m3u8$订阅源
 西藏卫视,https://migu.188766.xyz/?migutoken=daebe4adf24d6a95eae165f0628c9a84&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&pp=1$订阅源
+西藏卫视,https://mursor.ottiptv.cc/mcp/xizang.m3u8$订阅源
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
 新疆卫视,https://mursor.ottiptv.cc/mcp/xinjiang.m3u8$订阅源
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
